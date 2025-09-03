@@ -3,7 +3,7 @@
 
 ---
 
-## 🔗 Google Colab Links  
+## 🔗 Google Colab Link  
 
 - [Notebook 1 - Main Analysis](https://colab.research.google.com/drive/1D76gsxMfmR5pmPTnX9eD-tCUULQj8NTK?usp=drive_link) 
 
